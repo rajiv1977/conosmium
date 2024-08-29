@@ -1,20 +1,15 @@
-[submodule "util"]
-	path = util
+[submodule "util/bzip2"]
+	path = util/bzip2
 	url = https://gitlab.com/bzip2/bzip2.git
-	branch = master
-[submodule "util"]
-	path = util
+[submodule "util/OSM-binary"]
+	path = util/OSM-binary
 	url = https://github.com/openstreetmap/OSM-binary.git
-	branch = master
-[submodule "util"]
-	path = util
+[submodule "util/protozero"]
+	path = util/protozero
 	url = https://github.com/mapbox/protozero.git
-	branch = master
-[submodule "util"]
-	path = util
+[submodule "util/sparsehash"]
+	path = util/sparsehash
 	url = https://github.com/sparsehash/sparsehash.git
-	branch = master
-[submodule "util"]
-	path = util
+[submodule "util/libosmium"]
+	path = util/libosmium
 	url = https://github.com/osmcode/libosmium
-	branch = master
