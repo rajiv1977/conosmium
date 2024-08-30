@@ -8,6 +8,13 @@
 * Conan
 * CMake
 
+# Getting submodule:
+```Matlab
+git submodule init
+git submodule update --rebase
+git submodule update
+```
+
 # Build (Window): 
   - not tested yet.
 
